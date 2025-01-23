@@ -44,7 +44,7 @@ Note:
 
 Credits:
 --------
-Developed by Mukund and Copilot
+Developed by Mukund Jha
 
 Contact:
 --------
